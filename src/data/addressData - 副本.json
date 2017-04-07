@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "pid": 0,
+    "name": "广东省",
+    "type": "province",
+    "sub": [
+      {
+        "id": 2,
+        "pid": 1,
+        "name": "深圳市",
+        "type": "city",
+        "sub": [
+          {"id": 3, "name": "福田区", "type": "district", "pid": 2},
+          {"id": 4, "name": "罗湖区", "type": "district", "pid": 2},
+          {"id": 5, "name": "宝安区", "type": "district", "pid": 2},
+          {"id": 6, "name": "南山区", "type": "district", "pid": 2},
+          {"id": 7, "name": "盐田区", "type": "district", "pid": 2},
+          {"id": 8, "name": "龙华区", "type": "district", "pid": 2},
+          {"id": 9, "name": "龙岗区", "type": "district", "pid": 2},
+          {"id": 10, "name": "坪山区", "type": "district", "pid": 2}
+        ]
+      },
+      {
+        "id": 11,
+        "pid": 1,
+        "name": "广州市",
+        "type": "city",
+        "sub": [
+          {"id": 12, "name": "越秀区", "type": "district", "pid": 11},
+          {"id": 13, "name": "荔湾区", "type": "district", "pid": 11},
+          {"id": 14, "name": "海珠区", "type": "district", "pid": 11},
+          {"id": 15, "name": "天河区", "type": "district", "pid": 11},
+          {"id": 16, "name": "白云区", "type": "district", "pid": 11},
+          {"id": 17, "name": "黄埔区", "type": "district", "pid": 11},
+          {"id": 18, "name": "番禺区", "type": "district", "pid": 11},
+          {"id": 19, "name": "花都区", "type": "district", "pid": 11},
+          {"id": 20, "name": "南沙区", "type": "district", "pid": 11},
+          {"id": 21, "name": "增城区", "type": "district", "pid": 11},
+          {"id": 22, "name": "从化区", "type": "district", "pid": 11}
+        ]
+      },
+      {
+        "id": 23,
+        "pid": 1,
+        "name": "东莞市",
+        "type": "city",
+        "sub": [
+          {"id": 24, "name": "南城区", "type": "district", "pid": 23},
+          {"id": 25, "name": "东城区", "type": "district", "pid": 23},
+          {"id": 26, "name": "莞城区", "type": "district", "pid": 23},
+          {"id": 27, "name": "万江区", "type": "district", "pid": 23},
+          {"id": 28, "name": "寮步镇", "type": "district", "pid": 23},
+          {"id": 29, "name": "大岭山镇", "type": "district", "pid": 23},
+          {"id": 30, "name": "松山湖区", "type": "district", "pid": 23},
+          {"id": 31, "name": "大朗镇", "type": "district", "pid": 23},
+          {"id": 32, "name": "常平镇", "type": "district", "pid": 23},
+          {"id": 33, "name": "塘厦镇", "type": "district", "pid": 23},
+          {"id": 34, "name": "凤岗镇", "type": "district", "pid": 23},
+          {"id": 35, "name": "黄江镇", "type": "district", "pid": 23},
+          {"id": 36, "name": "虎门镇", "type": "district", "pid": 23},
+          {"id": 37, "name": "厚街镇", "type": "district", "pid": 23},
+          {"id": 38, "name": "长安镇", "type": "district", "pid": 23},
+          {"id": 39, "name": "道滘镇", "type": "district", "pid": 23},
+          {"id": 40, "name": "望牛墩镇", "type": "district", "pid": 23},
+          {"id": 41, "name": "洪梅镇", "type": "district", "pid": 23},
+          {"id": 42, "name": "麻涌镇", "type": "district", "pid": 23},
+          {"id": 43, "name": "东坑镇", "type": "district", "pid": 23},
+          {"id": 44, "name": "石龙镇", "type": "district", "pid": 23},
+          {"id": 45, "name": "石排镇", "type": "district", "pid": 23},
+          {"id": 46, "name": "石碣镇", "type": "district", "pid": 23},
+          {"id": 47, "name": "谢岗镇", "type": "district", "pid": 23},
+          {"id": 48, "name": "茶山镇", "type": "district", "pid": 23},
+          {"id": 49, "name": "桥头镇", "type": "district", "pid": 23},
+          {"id": 50, "name": "企石镇", "type": "district", "pid": 23},
+          {"id": 51, "name": "横沥镇", "type": "district", "pid": 23},
+          {"id": 52, "name": "高埗镇", "type": "district", "pid": 23},
+          {"id": 53, "name": "中堂镇", "type": "district", "pid": 23},
+          {"id": 54, "name": "清溪镇", "type": "district", "pid": 23},
+          {"id": 55, "name": "樟木头镇", "type": "district", "pid": 23},
+          {"id": 56, "name": "沙田镇", "type": "district", "pid": 23}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pid": 0,
+    "name": "北京",
+    "type": "province",
+    "sub": [
+      {
+        "id": 58,
+        "pid": 57,
+        "name": "朝阳区",
+        "type": "city"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+	{"cityId": 1, "cityName": "阿克依拉"},
+	{"cityId": 2, "cityName": "鞍山"},
+	{"cityId": 3, "cityName": "安庆"},
+	{"cityId": 4, "cityName": "北京"},
+	{"cityId": 5, "cityName": "保定"},
+	{"cityId": 5, "cityName": "宝安"},
+	{"cityId": 6, "cityName": "成都"},
+	{"cityId": 7, "cityName": "重庆"},
+	{"cityId": 8, "cityName": "大连"},
+	{"cityId": 8, "cityName": "丹东"},
+	{"cityId": 9, "cityName": "东莞"},
+	{"cityId": 10, "cityName": "东营"},
+	{"cityId": 11, "cityName": "鄂尔多斯"},
+	{"cityId": 12, "cityName": "恩平"},
+	{"cityId": 12, "cityName": "平山"},
+	{"cityId": 13, "cityName": "郑州"},
+	{"cityId": 14, "cityName": "湛江"}
+]
